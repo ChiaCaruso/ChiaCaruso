@@ -1,4 +1,4 @@
-<h1>Hi there 👋 i'm Chiara Caruso and i'm a Front End Developer<h1>
+<h1 align="center">Hi there 👋 i'm Chiara Caruso and i'm a Front End Developer<h1>
 
   <div align="center"><img src="banner.png" alt="banner"></div>
 
