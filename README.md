@@ -1,6 +1,6 @@
 <h1>Hi there 👋 i'm Chiara Caruso and i'm a Front End Developer<h1>
 
-<img src="banner.png" alt="banner" align="center">
+<img align="center" src="banner.png" alt="banner" />
 
 
 <h3 align="center">Technology stack<h3>
